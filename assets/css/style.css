@@ -447,14 +447,12 @@ header {
 
 /* ===================================== section 2 ======================== */
 .section-2 {
-  height: 100vh;
   width: 100%;
   display: flex;
   justify-content: space-between;
   background-color: #f26d25;
 
   @media (max-width: 1040px) {
-    height: 120vh;
     width: 100%;
     flex-direction: column;
   }
@@ -1884,4 +1882,5 @@ footer {
   }
 
 }
+
 
