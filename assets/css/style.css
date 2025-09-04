@@ -460,7 +460,6 @@ header {
   }
 
   @media (max-width: 767px) {
-    height: auto;
     width: 100%;
     flex-direction: column;
   }
@@ -1883,4 +1882,5 @@ footer {
       }
     }
   }
+
 }
